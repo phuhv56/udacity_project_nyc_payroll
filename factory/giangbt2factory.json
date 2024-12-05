@@ -1,0 +1,9 @@
+{
+	"name": "giangbt2factory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34e82782-0d28-481a-8772-363215f018a3",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
